@@ -1,0 +1,65 @@
+{
+  "screenshots": {
+    "Components.png": [
+      {
+        "screenshot_name": "Components.png",
+        "captured_image": "https://automation-dotlapse-artefact.lambdatest.com/org-1324700/b917d15d-e380-4665-9b15-321af4c89d54/8146c29d-b1a9-4eff-a41d-ce53f1f624ce/base-screenshots/Components_png-default-1804x2501.png",
+        "browser_name": "default",
+        "viewport": "1804x2501",
+        "mismatch_percentage": 0,
+        "status": "new-screenshot"
+      }
+    ],
+    "DSN-83 httpslambdatest.atlassian.netbrowseDSN-83.png": [
+      {
+        "screenshot_name": "DSN-83 httpslambdatest.atlassian.netbrowseDSN-83.png",
+        "captured_image": "https://automation-dotlapse-artefact.lambdatest.com/org-1324700/b917d15d-e380-4665-9b15-321af4c89d54/8146c29d-b1a9-4eff-a41d-ce53f1f624ce/base-screenshots/DSN_83_httpslambdatest_atlassian_netbrowseDSN_83_png-default-3755x3942.png",
+        "browser_name": "default",
+        "viewport": "3755x3942",
+        "mismatch_percentage": 0,
+        "status": "new-screenshot"
+      }
+    ],
+    "Screenshot.png": [
+      {
+        "screenshot_name": "Screenshot.png",
+        "captured_image": "https://automation-dotlapse-artefact.lambdatest.com/org-1324700/b917d15d-e380-4665-9b15-321af4c89d54/8146c29d-b1a9-4eff-a41d-ce53f1f624ce/base-screenshots/Screenshot_png-default-1440x780.png",
+        "browser_name": "default",
+        "viewport": "1440x780",
+        "mismatch_percentage": 0,
+        "status": "new-screenshot"
+      }
+    ],
+    "Test.png": [
+      {
+        "screenshot_name": "Test.png",
+        "captured_image": "https://automation-dotlapse-artefact.lambdatest.com/org-1324700/b917d15d-e380-4665-9b15-321af4c89d54/8146c29d-b1a9-4eff-a41d-ce53f1f624ce/base-screenshots/Test_png-default-1885x2778.png",
+        "browser_name": "default",
+        "viewport": "1885x2778",
+        "mismatch_percentage": 0,
+        "status": "new-screenshot"
+      }
+    ]
+  },
+  "build": {
+    "build_id": "8146c29d-b1a9-4eff-a41d-ce53f1f624ce",
+    "build_name": "A3 Discount % - Build #3",
+    "baseline": false,
+    "build_type": "smartui-cli",
+    "build_status_ind": "completed",
+    "build_status": "pending-approval",
+    "commitId": "84413e1",
+    "branch": "main",
+    "commitAuthor": "Jeevesh",
+    "commitMessage": "Merge pull request #1 from Saurabh-LT/cloudjs",
+    "comparisonStrategy": "strict"
+  },
+  "project": {
+    "project_id": "b917d15d-e380-4665-9b15-321af4c89d54",
+    "name": "Figma Web CLI Testing Project",
+    "username": "aakashv",
+    "project_type": "smartui-cli",
+    "projectCategory": "web",
+    "platform": "cli"
+  }
+}
